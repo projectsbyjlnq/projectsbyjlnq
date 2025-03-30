@@ -9,3 +9,4 @@
 <a href="https://www.facebook.com/Tech.DMS"><img src="https://github.com/jlnqvisuals/Assets/blob/main/SOCMED%20ICON%20with%20TXT/SOCMED%20ICON%20with%20TXT/DMSpage.png?raw=true" width="130" height="30"></a>
 <a href="https://youtube.com/@jlnq.visuals"><img src="https://github.com/jlnqvisuals/Assets/blob/main/SOCMED%20ICON%20with%20TXT/SOCMED%20ICON%20with%20TXT/jlnqvisualsYT.png?raw=true" width="145" height="30"></a>
 
+Projects by jlnq (c) 2025
