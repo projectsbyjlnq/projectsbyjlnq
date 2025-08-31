@@ -1,1 +1,1 @@
-<img src="https://res.cloudinary.com/dpiew5eib/image/upload/v1756610279/Portfolio_4_fjnn0m.png">
+<img src="https://github.com/projectsbyjlnq/projectsbyjlnq/blob/main/Picture1.png?raw=true">
